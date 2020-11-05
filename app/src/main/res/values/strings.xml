@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First Android</string>
+    <string name="login">Login</string>
+    <string name="label1">Select Planet</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="proceed">Submit</string>
+    <string name="submit">Submit</string>
+</resources>
